@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vantunes-crl
-- 👀 I’m interested in learn learn and learn
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on c projects
-- 📫 How to reach me valerio.asj@gmail.com
+# - 👋 Hi, I’m Valerio a 42 student =)
+# - 👀 knowledge addict
+# - 🌱 I’m currently learning c
+# - 💞️ I’m looking to collaborate on c projects
+# - 📫 How to reach me valerio.asj@gmail.com
 
-<!---
-vantunes-crl/vantunes-crl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![42-Lisboa_RGB_Vertical](https://user-images.githubusercontent.com/79285178/119275583-d63f4700-bc0d-11eb-855d-5a294bda4840.png)
