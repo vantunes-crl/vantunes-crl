@@ -1,4 +1,4 @@
-### - 👋 Hi, I’m Valerio a 42 student =)
+### - 👋 Hi, I’m Valerio a student from the 42 Lisbon school, passionate about embedded systems, hardware and artificial intelligence
 
 ## - EXPERIENCE
 
